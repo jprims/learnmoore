@@ -5466,6 +5466,8 @@ button.close {
   margin-left: 10%;
   padding: 15px;
 }
+
+
 .modal-header .close {
   margin-top: -2px;
 }
@@ -6376,3 +6378,26 @@ footer {
 	bottom: 20%;
 }
 
+
+.oldlabimg {
+	max-height:150px;
+	max-width:150px;
+}
+.oldlabimg img {
+	width: 100%;
+}
+
+.oldlabinfocontainer {
+	position: relative;
+	width: 95%;
+	padding: 25px;
+	padding-top: 20px;
+
+}
+.oldlabinfo {
+	position: relative;
+	float:left;
+	height:300px;
+	width:200px;
+
+}
