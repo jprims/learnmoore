@@ -5471,7 +5471,6 @@ button.close {
   padding: 15px;
 }
 
-
 .modal-header .close {
   margin-top: -2px;
 }
@@ -6290,6 +6289,7 @@ footer {
   min-height: 100px;
   height: 25%;
   width: 25%;
+  padding-bottom: 50px;
 }
 .about-body {
   text-justify: auto;
